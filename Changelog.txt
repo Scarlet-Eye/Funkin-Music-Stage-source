@@ -1,0 +1,3 @@
+V0.0.1 --- Hi game(Made in 4 days) - Привет игра(Сделана за 4 дня)
+V0.1.2 --- Added new functions in the settings and improved the code(The update was done in 2-3 hours) - Добавлены новые функции в настройках и улучшен код(Обновление сделано за 2-3 часа)
+V0.2.3 --- Added two new functions, added 2P Mode, Added a change of Stages and Improved the code(The update was done in 2 day) -Добавлены две новые функции, добавлен 2P режим, добавлена смена стадий и улучшен код(Обновление сделано за 2 дня)
