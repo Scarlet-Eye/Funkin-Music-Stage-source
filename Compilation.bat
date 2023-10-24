@@ -1,2 +1,2 @@
 color bf
-lime test windows
+lime build windows
